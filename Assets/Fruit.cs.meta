@@ -3,7 +3,8 @@ guid: adc267ab7210af94eafcc2b4c54050b6
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - froutsPrefabs: {fileID: 919132149155446097, guid: ea4c8894aadc7e340b532b9928cac8d5, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
